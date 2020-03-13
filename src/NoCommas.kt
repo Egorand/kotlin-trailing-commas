@@ -1,3 +1,4 @@
 class NoCommas(
-  val foo: Int
+  val foo: Int,
+  val bar: Int
 )
