@@ -1,6 +1,7 @@
 enum class Enum {
   FOO,
-  BAR;
+  BAR,
+  ;
 
   override fun toString() = super.toString().toLowerCase()
 }
